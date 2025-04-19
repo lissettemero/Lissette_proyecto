@@ -59,10 +59,10 @@ if __name__ == "__main__":
     # Crear un cliente
     cliente1 = Cliente(
         codigo="C001",
-        nombre="Juan Pérez",
+        nombre="William velez",
         telefono="555-1234",
         direccion="Calle Principal 123",
-        email="juan@example.com",
+        email="William@example.com",
         ocupacion="Ingeniero",
         preferencia="Tecnología",
         estado_civil="Casado",
@@ -73,10 +73,10 @@ if __name__ == "__main__":
     # Crear un vendedor
     vendedor1 = Vendedor(
         codigo="V001",
-        nombre="María López",
+        nombre="Liam Payne",
         direccion="Av. Comercial 456",
         horario="9:00 - 18:00",
-        email="maria@company.com",
+        email="Liam@company.com",
         experiencia="5 años",
         telefono="555-5678",
         cargo="Supervisor de Ventas",
